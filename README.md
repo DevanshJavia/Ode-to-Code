@@ -1,5 +1,4 @@
 # Ode-to-Code
-Ode to Code 
 Rock, paper, scissor game is the name of our project. It is a very familiar two-person game. A fun game based on the Fingerpose gesture detection.
 This program is a simple rock, paper, scissors game where the player has to choose one of the three options to beat the computer.
 
