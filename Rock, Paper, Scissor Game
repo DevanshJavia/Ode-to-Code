@@ -67,6 +67,5 @@ int main()
     {
         cout<<"Computer won the Game"<<endl<<endl;
     }
-    
     return 0;
 }
